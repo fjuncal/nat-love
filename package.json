@@ -9,6 +9,10 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "engines": {
+    "node": "12.19.0",
+    "npm": "6.14.8"
+ },
   "private": true,
   "dependencies": {
     "@angular-devkit/build-angular": "~13.2.4",
